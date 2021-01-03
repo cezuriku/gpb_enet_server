@@ -1,0 +1,6 @@
+-sname gpb_enet_server
+
+-setcookie gpb_enet_server_cookie
+
++K true
++A30
