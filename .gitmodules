@@ -1,0 +1,6 @@
+[submodule "proto"]
+	path = apps/gpb_enet_server/proto
+	url = git@github.com:cezuriku/godot_room_proto.git
+[submodule "apps/rt_room"]
+	path = apps/rt_room
+	url = git@github.com:cezuriku/rt_room.git
